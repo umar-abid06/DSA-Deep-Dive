@@ -168,6 +168,6 @@ class SinglyLinkedList {
   }
 }
 var list = new SinglyLinkedList();
-list.push(001);
-list.push(002);
-list.push(003);
+// list.push(001);
+// list.push(002);
+// list.push(003);
